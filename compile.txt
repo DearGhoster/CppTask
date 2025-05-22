@@ -1,1 +1,1 @@
-./Filter.exe
+g++ Filter.cpp -o Filter.exe
